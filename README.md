@@ -137,6 +137,6 @@ python delashpaz.py
 
 ## 👤 Author
 
-Mehraveh
+Mehraveh Goharshadi
 
 Python Developer & Machine Learning Enthusiast
