@@ -66,8 +66,8 @@ Delashpaz/
 │   ├── Dinner.png
 │   └── Del.png
 │
-├── delashpaz.py
-├── delashpaz.db
+├── Delashpaz.py
+├── Delashpaz.db
 ├── requirements.txt
 └── README.md
 ```
@@ -79,13 +79,13 @@ Delashpaz/
 Clone the repository:
 
 ```bash
-git clone git@github.com:melofy-vibes/delashpaz.git
+git clone git@github.com:melofy-vibes/Delashpaz.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd delashpaz
+cd Delashpaz
 ```
 
 Install dependencies:
@@ -97,7 +97,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python delashpaz.py
+python Delashpaz.py
 ```
 
 ---
